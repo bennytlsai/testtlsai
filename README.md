@@ -17,4 +17,4 @@ See the full tutorial here: https://www.youtube.com/c/Devscover/videos
 Or
 
 Just hit Deploy Now to deploy with IONOS Deploy Now:
-[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://ionos.space/setup?repo=https://github.com/wazcov/DeployNowBlog)
+[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://ionos.space/setup?repo=https://github.com/bennytlsai/testtlsai)
